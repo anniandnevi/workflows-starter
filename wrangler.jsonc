@@ -6,7 +6,7 @@
 	"compatibility_date": "2024-10-22",
 
 	"observability": {
-		"traces" {
+		"traces": {
 			"enabled": true
 		}
 	},
